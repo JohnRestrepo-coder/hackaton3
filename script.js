@@ -201,10 +201,10 @@ const images1 = [
     document.getElementById(imgId9).src = images9[currentIndex9];
   }
   const images10 = [
-    "./assets/shoes/New Balance 990v5 /New Balance 990v5 .png",
-    "./assets/shoes/New Balance 990v5 /New Balance 990v5-1.png",
-    "./assets/shoes/New Balance 990v5 /New Balance 990v5-2.png",
-    "./assets/shoes/New Balance 990v5 /New Balance 990v5-3.png",
+    "./assets/shoes/New Balance 990v5/New Balance 990v5.png",
+    "./assets/shoes/New Balance 990v5/New Balance 990v5-1.png",
+    "./assets/shoes/New Balance 990v5/New Balance 990v5-2.png",
+    "./assets/shoes/New Balance 990v5/New Balance 990v5-3.png",
   ];
  
  
